@@ -1,0 +1,11 @@
+open cmd with open as administrator
+
+run this command
+
+bcdedit /set hypervisorlaunchtype off
+
+
+
+restart and see the magic!!
+
+Thanks!
